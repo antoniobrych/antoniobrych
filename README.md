@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @antoniobrych
-- 👀 I’m interested in Machine Learning and Artificial Inteligence.
+- 👀 I’m interested in Machine Learning algorithms and Artificial Inteligence.
 - 🌱 I’m currently learning Python and Data Science for the stock market
 - 💞️ I’m looking to collaborate on anything that I can
 - 📫 How to reach me antoniosouzabrych@gmail.com
