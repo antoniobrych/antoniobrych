@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on anything that I can
 - 📫 How to reach me antoniosouzabrych@gmail.com
 
-<!---
+
 I´m very active on Kaggle, click here to check my work there!
 
 https://www.kaggle.com/antoniobrych
 
---->
+
